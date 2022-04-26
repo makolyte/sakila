@@ -1,6 +1,4 @@
-#  Sakila sample database (modded) - for database platforms:
-1. SQL Server
-2. MySQL
+#  Sakila sample database (modded)
 
 # Mod information: 
 -Stripped down to just SQL Server and MySQL.
