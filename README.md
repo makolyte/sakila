@@ -14,7 +14,7 @@ Here's an example of how to install the SQL Server data:
 4. Load sample data by running script: **sql-server-sakila-insert-data.sql**
 
 # Original information:
-by DB Software Laboratory 
+Originally developed by DB Software Laboratory 
 http://www.etl-tools.com
 
 Original Sakila for MySQL and Pagila are included as well for the user convinience.
