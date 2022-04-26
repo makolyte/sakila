@@ -1,14 +1,14 @@
-Sakila sample database (modded) - for database platforms:
+#Sakila sample database (modded) - for database platforms:
 1. SQL Server
 2. MySQL
 
-Mod information: 
+#Mod information: 
 -Stripped down to just SQL Server and MySQL.
 -Denormalized some of the data so it's easier to show simple examples
 -Changed some data for simplicity (DateTime -> Date)
 
 
-Original information:
+#Original information:
 by DB Software Laboratory 
 http://www.etl-tools.com
 
