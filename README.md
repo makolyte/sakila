@@ -1,4 +1,5 @@
 #  Sakila sample database (modded)
+This is a sample database containing realistic movie rental data. You can use this for practicing SQL queries or whatever.
 
 # Mod information: 
 -Stripped down to just SQL Server and MySQL.
